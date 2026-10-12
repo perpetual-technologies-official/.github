@@ -1,40 +1,69 @@
+<div align="center">
+
+<a href="https://perpetualtechnologies.co.uk">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://perpetualtechnologies.co.uk/favicon.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://perpetualtechnologies.co.uk/favicon-light.svg">
+    <img alt="Perpetual Technologies" src="https://perpetualtechnologies.co.uk/favicon.svg" width="72" height="72">
+  </picture>
+</a>
+
 # Perpetual Technologies
 
-Building for the Future.
+**Building the future.**
 
-Perpetual Technologies AI Ltd is a UK registered company. We build software and AI systems, and we run managed IT and server infrastructure for the businesses that use them. We want to make better tools: tools that are simpler to use, that you stay in control of, and that keep working as the world around them changes.
+Software and AI systems you can trust with real work.
+
+[Website](https://perpetualtechnologies.co.uk) &nbsp;|&nbsp; [Security](https://perpetualtechnologies.co.uk/.well-known/security.txt) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/company/perpetual-technologies-ai/) &nbsp;|&nbsp; [Contact](mailto:contact@perpetualtechnologies.co.uk)
+
+</div>
+
+<br>
+
+Perpetual Technologies AI Ltd is a UK company. We build AI software and we run managed IT and server infrastructure for the businesses that depend on it. Our aim is simple: tools that are better than what came before, that you stay in control of, and that keep working as the world around them changes.
+
+## Principles
+
+| Local first | You stay in control | Honest by default |
+|---|---|---|
+| Your work lives in plain files on your own machine, in formats you can open without us. | Anything that changes something, or reaches outside, asks first. Automation is something you grant, not something you inherit. | We say what is ready and what is not. If it has not shipped, we do not describe it as shipped. |
 
 ## What we build
 
-**NeuralVault.** An agent harness: an app that routes your requests to the right model and works on your own notes and files. Your notes are plain Markdown files in a folder on your own computer. The product is private and currently in testing, so there is no public repository for it.
+**NeuralVault.** An AI agent harness that works on your own notes and files and routes each request to the model that suits it, so you are not tied to one provider. It is private and in testing.
 
-**Custom AI and managed IT.** We connect AI to the tools a business already runs, and we set up and look after the hardware it runs on.
+**Custom AI and managed IT.** We connect AI to the tools a business already runs, and we set up and look after the hardware underneath.
 
-## How we think about building well
+## Security
 
-- **Control stays with you.** Tools that change something ask first.
-- **Your data stays where you put it.** Notes and memory are files on your own machine. You choose which model to use, and a local model keeps everything on the device.
-- **Plain formats.** Markdown and files you can open without us.
-- **Say what is true.** If a feature is not shipped, we do not describe it as shipped.
+Security is a property of how we build, not a page we add at the end. This is how we think about it.
 
-## How we approach security
+**Your data stays yours.**
+Notes and memory are files on your computer. A local model keeps everything on the device. When you choose a cloud model, it receives your question and the notes it needed, and nothing else.
 
-We aim to build secure software and we treat it as an engineering property, not a slogan. We make no claims of certifications or audits.
+**Nothing acts without you.**
+Every tool call passes a safety guard and your permission mode. Reading is free. Changing, sending, deleting or spending asks first. The assistant cannot change its own permissions or approve its own actions.
 
-- Windows installers are code signed under the publisher name PERPETUAL TECHNOLOGIES AI LTD.
-- Changes to our protected branches go through pull requests, with branch protection that blocks deletion and force pushes.
-- Sensitive areas of the code (accounts, licensing, pricing) have code owners who are asked to look at changes to them.
-- We publish a vulnerability disclosure contact.
+**Outside content is data, never instructions.**
+Web pages, files, search results and tool output are quoted, not obeyed. Text that tells the assistant to ignore its rules, reveal a secret or skip a confirmation is treated as what it is: text.
 
-Found something? Please do not open a public issue. Use the contact in our [security.txt](https://perpetualtechnologies.co.uk/.well-known/security.txt), or email contact@perpetualtechnologies.co.uk.
+**Software you can verify.**
+Our Windows installers are code signed under the publisher name PERPETUAL TECHNOLOGIES AI LTD, and updates are checked against that signature before they install.
 
-## Find us
+**Disciplined change.**
+Protected branches take changes through pull requests, with deletion and force pushes blocked. The sensitive parts of the code, accounts, licensing and pricing among them, have named code owners who are asked to look at every change.
 
-- Website: [perpetualtechnologies.co.uk](https://perpetualtechnologies.co.uk)
-- Security contact: [security.txt](https://perpetualtechnologies.co.uk/.well-known/security.txt)
-- LinkedIn: [Perpetual Technologies](https://www.linkedin.com/company/perpetual-technologies-ai/)
-- Email: contact@perpetualtechnologies.co.uk
+**Tell us when we are wrong.**
+We publish a vulnerability disclosure contact. Please do not open a public issue for a security problem. Use our [security.txt](https://perpetualtechnologies.co.uk/.well-known/security.txt) or write to [contact@perpetualtechnologies.co.uk](mailto:contact@perpetualtechnologies.co.uk). We make no claims of certifications or audits, and we will not pretend otherwise.
 
-## What we are working toward
+## Where we are going
 
-Better tools for the future: software that remembers how you work, acts only where you allow it, and keeps a record of what it did. We will say plainly what is ready and what is not.
+We want to build the tools that make the next ten years of software better: assistants that remember how you work, act only where you allow it, and keep a record of what they did. We will keep saying plainly what is ready, what is in testing, and what is still an idea.
+
+<br>
+
+<div align="center">
+
+[perpetualtechnologies.co.uk](https://perpetualtechnologies.co.uk)
+
+</div>
