@@ -14,7 +14,7 @@
 
 Software and AI systems you can trust with real work.
 
-[Website](https://perpetualtechnologies.co.uk) &nbsp;|&nbsp; [Security](https://perpetualtechnologies.co.uk/.well-known/security.txt) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/company/perpetual-technologies-ai/) &nbsp;|&nbsp; [Contact](mailto:contact@perpetualtechnologies.co.uk)
+[Website](https://perpetualtechnologies.co.uk) &nbsp;|&nbsp; [Security](https://perpetualtechnologies.co.uk/.well-known/security.txt) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/company/perpetual-technologies-ai/) &nbsp;|&nbsp; [Contact](mailto:contact@perpetualtechnologies.co.uk) &nbsp;|&nbsp; [Community](https://discord.gg/x7yXE3MReT)
 
 </div>
 
@@ -30,9 +30,15 @@ Perpetual Technologies AI Ltd is a UK company. We build AI software and we run m
 
 ## What we build
 
-**NeuralVault.** An AI agent harness that works on your own notes and files and routes each request to the model that suits it, so you are not tied to one provider. It is private and in testing.
+**NeuralVault.** A local-first AI memory and agent harness. It works on your own notes and files, routes each request to the model that suits it, and does not tie you to one provider. It is private and in testing.
 
 **Custom AI and managed IT.** We connect AI to the tools a business already runs, and we set up and look after the hardware underneath.
+
+## Tools we use
+
+**Meerkat.** A single command that checks your whole project before you ship it: security, correctness, accessibility, performance and code health. Zero dependencies, no telemetry. We use it before we ship, and we are proud of it.
+
+[Repository](https://github.com/SamuelNDCE/Meerkat) &nbsp;|&nbsp; [npm](https://www.npmjs.com/package/@samuelndce/meerkat)
 
 ## Security
 
@@ -59,6 +65,8 @@ We publish a vulnerability disclosure contact. Please do not open a public issue
 ## Where we are going
 
 We want to build the tools that make the next ten years of software better: assistants that remember how you work, act only where you allow it, and keep a record of what they did. We will keep saying plainly what is ready, what is in testing, and what is still an idea.
+
+Come and talk to us in the [community](https://discord.gg/x7yXE3MReT).
 
 <br>
 
